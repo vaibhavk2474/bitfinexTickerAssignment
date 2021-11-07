@@ -5,7 +5,9 @@
 This project is created with Expo
 
 ## see Demo
-web version
+web version:
+
+
 go to link: https://bitfinexreactnative.herokuapp.com
 
 ## Mobile Demo
