@@ -9,7 +9,7 @@ click on the link: https://bitfinextwebticker.herokuapp.com
 
 ## View
 
-<img src="https://github.com/vaibhavk2474/bitfinexTickerAssignment/blob/master/public/logo192.png" width="250">
+<img src="https://github.com/vaibhavk2474/bitfinexTickerAssignment/blob/master/public/pic.png" width="250">
 
 ## Available Scripts
 
