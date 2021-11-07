@@ -1,10 +1,16 @@
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## see demo:
+
+click on the link: https://bitfinextwebticker.herokuapp.com
+
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `npm start`
 
