@@ -1,11 +1,16 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
+import Ticker from './src/components/Ticker';
 
+
+// 01
+// App fun() has component Ticker 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Open up App.tsx to start working on your app!</Text>
+      <Text>my ticker</Text>
+      <Ticker/>
       <StatusBar style="auto" />
     </View>
   );
