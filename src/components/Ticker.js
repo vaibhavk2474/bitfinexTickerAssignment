@@ -1,8 +1,8 @@
 import React, { useEffect } from "react";
 import { connect } from "react-redux";
 import WS, { closeFun } from "../components/WS";
-import url_01 from "./up.png";
-import url_02 from "./red.png";
+import url_01 from "./png/up.png";
+import url_02 from "./png/red.png";
 import "./style.css";
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
