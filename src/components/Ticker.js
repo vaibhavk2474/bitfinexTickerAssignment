@@ -5,15 +5,6 @@ import { FontAwesomeIcon } from '@fortawesome/react-native-fontawesome'
 import { faCaretDown,faCaretUp } from '@fortawesome/free-solid-svg-icons'
 import styles from "./style";
 
-
-
-
-
-
-
-
-
-
 // 02
 // here Ticker fun() is rendering data from the state
 // initially state will have initial data(initialState)
